@@ -2,6 +2,10 @@ let express = require("express");
 let app = express();
 let fs = require("fs");
 
+app.get("/", function (req, res) {
+  res.send("Selamat datang");
+});
+
 app.get("/getUsers", function (req, res) {
   fs.readFile(__dirname + "/" + "users.json", "utf8", function (err, data) {
     console.log(data);
