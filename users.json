@@ -1,0 +1,36 @@
+{
+  "user1": {
+    "id": 1,
+    "nama": "Dewangga Wahyu",
+    "jenis_kelamin": "Laki-Laki",
+    "telpon": "0895635645611"
+  },
+
+  "user2": {
+    "id": 2,
+    "nama": "Ragil Ridho",
+    "jenis_kelamin": "Laki-Laki",
+    "telpon": "0816562115"
+  },
+
+  "user3": {
+    "id": 3,
+    "nama": "Fauzan",
+    "jenis_kelamin": "Laki-Laki",
+    "telpon": "082168446732"
+  },
+
+  "user4": {
+    "id": 4,
+    "nama": "Danur Isa",
+    "jenis_kelamin": "Laki-Laki",
+    "telpon": "08578228951"
+  },
+
+  "user5": {
+    "id": 5,
+    "nama": "Oid",
+    "jenis_kelamin": "Laki-Laki",
+    "telpon": "087656744326"
+  }
+}
